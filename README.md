@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello .<br>My name is Avi michaeli.<br>I am looking for a job as automation engineer.<br>I have B.Sc. in Software engineering from Shenkar college.<br>I always love to meet new people learn new things and enjoy life.
+Hello .<br>My name is Avi michaeli. <br>I am looking for a job as automation engineer.<br>I have B.Sc. in Software engineering from Shenkar college.<br>I always love to meet new people learn new things and enjoy life.
 
 
 ## 🌐 Socials:
